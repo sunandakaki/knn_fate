@@ -1,1 +1,1 @@
-# knn_fate
+# Fairness Detection and Mitigation using k-Nearest Neighbors (k-NN)
